@@ -1,0 +1,13 @@
+﻿Build started 10/11/2012 6:35:37 PM.
+     1>Project "d:\Sandbox\VS2010\feature2track\feature2track.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\feature2track.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt source\main.cpp
+         main.cpp
+     1>source\main.cpp(20): fatal error C1083: Cannot open include file: 'ipCaptureDevice.h': No such file or directory
+     1>Done Building Project "d:\Sandbox\VS2010\feature2track\feature2track.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.46

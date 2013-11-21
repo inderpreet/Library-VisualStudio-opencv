@@ -1,0 +1,40 @@
+﻿Build started 10/22/2012 4:32:06 PM.
+     1>Project "d:\Sandbox\VS2010\OpenCV\VisualLengthMeasurementCalibration\VisualLengthMeasurementCalibration.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\VisualLengthMeasurementCalibration.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt Source\drawpoints.cpp Source\ipCapture.cpp Source\ipWriteFile.cpp Source\main.cpp
+         main.cpp
+         ipWriteFile.cpp
+     1>Source\ipWriteFile.cpp(39): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         ipCapture.cpp
+         drawpoints.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\VisualLengthMeasurementCalibration.exe.embed.manifest.res" x64\Debug\VisualLengthMeasurementCalibration_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\opencv\libs opencv_core242d.lib opencv_imgproc242d.lib opencv_highgui242d.lib opencv_ml242d.lib opencv_video242d.lib opencv_features2d242d.lib opencv_calib3d242d.lib opencv_objdetect242d.lib opencv_contrib242d.lib opencv_legacy242d.lib opencv_flann242d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\VisualLengthMeasurementCalibration.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.lib" /MACHINE:X64 x64\Debug\VisualLengthMeasurementCalibration.exe.embed.manifest.res
+         x64\Debug\drawpoints.obj
+         x64\Debug\ipCapture.obj
+         x64\Debug\ipWriteFile.obj
+         x64\Debug\main.obj
+         VisualLengthMeasurementCalibration.vcxproj -> d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\VisualLengthMeasurementCalibration.exe.embed.manifest" /manifest x64\Debug\VisualLengthMeasurementCalibration.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\VisualLengthMeasurementCalibration.exe.embed.manifest.res" x64\Debug\VisualLengthMeasurementCalibration_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.exe" /INCREMENTAL /NOLOGO /LIBPATH:c:\opencv\libs opencv_core242d.lib opencv_imgproc242d.lib opencv_highgui242d.lib opencv_ml242d.lib opencv_video242d.lib opencv_features2d242d.lib opencv_calib3d242d.lib opencv_objdetect242d.lib opencv_contrib242d.lib opencv_legacy242d.lib opencv_flann242d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\VisualLengthMeasurementCalibration.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.lib" /MACHINE:X64 x64\Debug\VisualLengthMeasurementCalibration.exe.embed.manifest.res
+         x64\Debug\drawpoints.obj
+         x64\Debug\ipCapture.obj
+         x64\Debug\ipWriteFile.obj
+         x64\Debug\main.obj
+         VisualLengthMeasurementCalibration.vcxproj -> d:\Sandbox\VS2010\Opencv\VisualLengthMeasurement\x64\Debug\VisualLengthMeasurementCalibration.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\VisualLengthMeasurementCalibration.unsuccessfulbuild".
+         Touching "x64\Debug\VisualLengthMeasurementCalibration.lastbuildstate".
+     1>Done Building Project "d:\Sandbox\VS2010\OpenCV\VisualLengthMeasurementCalibration\VisualLengthMeasurementCalibration.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.52

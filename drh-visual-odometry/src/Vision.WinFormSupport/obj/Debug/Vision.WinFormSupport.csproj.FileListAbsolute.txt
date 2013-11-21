@@ -1,0 +1,16 @@
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Vision.WinFormSupport.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Vision.WinFormSupport.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.UI.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.Util.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\ZedGraph.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\zlib.net.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.UI.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.Util.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\bin\Debug\Emgu.CV.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\ResolveAssemblyReference.cache
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\Vision.WinForm.ImageBoxWithHeading.resources
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\ResGen.read.1.tlog
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\ResGen.write.1.tlog
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Vision.WinFormSupport\obj\Debug\Vision.WinFormSupport.pdb

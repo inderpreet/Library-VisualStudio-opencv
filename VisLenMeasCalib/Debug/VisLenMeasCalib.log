@@ -1,0 +1,20 @@
+﻿Build started 10/22/2012 6:56:29 PM.
+     1>Project "d:\Sandbox\VS2010\VisLenMeasCalib\VisLenMeasCalib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\VisLenMeasCalib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Source\drawpoints.cpp Source\ipCapture.cpp Source\ipWriteFile.cpp Source\main.cpp
+         main.cpp
+     1>d:\sandbox\vs2010\vislenmeascalib\source\main.cpp(19): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         ipWriteFile.cpp
+     1>d:\sandbox\vs2010\vislenmeascalib\source\ipwritefile.cpp(20): fatal error C1083: Cannot open include file: 'highgui.h': No such file or directory
+         ipCapture.cpp
+     1>d:\sandbox\vs2010\vislenmeascalib\source\ipcapture.cpp(20): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         drawpoints.cpp
+     1>d:\sandbox\vs2010\vislenmeascalib\source\drawpoints.cpp(19): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+         Generating Code...
+     1>Done Building Project "d:\Sandbox\VS2010\VisLenMeasCalib\VisLenMeasCalib.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.87

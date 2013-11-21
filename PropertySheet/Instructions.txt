@@ -1,0 +1,5 @@
+Run the Following command on a cmd as administrator
+
+setx -m OPENCV_DIR c:\OpenCV
+
+add the C:\OpenCV\build\x64\vc10\bin; to the path variable in the start of the path environment variable.

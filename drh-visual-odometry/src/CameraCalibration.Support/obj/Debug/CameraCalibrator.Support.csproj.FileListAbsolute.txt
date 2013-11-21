@@ -1,0 +1,13 @@
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\CameraCalibrator.Support.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\CameraCalibrator.Support.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.CV.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.CV.UI.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.Util.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\zlib.net.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\ZedGraph.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.CV.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.CV.UI.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\bin\Debug\Emgu.Util.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\obj\Debug\ResolveAssemblyReference.cache
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\obj\Debug\CameraCalibrator.Support.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\CameraCalibration.Support\obj\Debug\CameraCalibrator.Support.pdb

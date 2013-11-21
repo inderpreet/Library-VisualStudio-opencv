@@ -1,0 +1,13 @@
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Playground.exe
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Playground.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.CV.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.CV.UI.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.Util.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\zlib.net.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\ZedGraph.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.CV.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.CV.UI.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\bin\Debug\Emgu.Util.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\obj\x86\Debug\Playground.exe
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground\obj\x86\Debug\Playground.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VisLenMeasSys", "VisLenMeasSys.vcxproj", "{EECAF7C0-3D36-4A1A-98E1-7876154872D0}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = VisLenMeasSys
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:TamTam\u0020CVS\u0020SCC
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = VisLenMeasSys.vcxproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EECAF7C0-3D36-4A1A-98E1-7876154872D0}.Debug|Win32.ActiveCfg = Debug|x64
+		{EECAF7C0-3D36-4A1A-98E1-7876154872D0}.Debug|Win32.Build.0 = Debug|x64
+		{EECAF7C0-3D36-4A1A-98E1-7876154872D0}.Release|Win32.ActiveCfg = Release|Win32
+		{EECAF7C0-3D36-4A1A-98E1-7876154872D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

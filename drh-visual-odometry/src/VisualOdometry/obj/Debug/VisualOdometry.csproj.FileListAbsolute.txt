@@ -1,0 +1,14 @@
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\VisualOdometry.dll.config
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\VisualOdometry.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\VisualOdometry.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.CV.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.CV.UI.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.Util.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\zlib.net.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\ZedGraph.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.CV.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.CV.UI.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\bin\Debug\Emgu.Util.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\obj\Debug\ResolveAssemblyReference.cache
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\obj\Debug\VisualOdometry.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\VisualOdometry\obj\Debug\VisualOdometry.pdb

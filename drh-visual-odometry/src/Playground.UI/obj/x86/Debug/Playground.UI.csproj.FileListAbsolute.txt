@@ -1,0 +1,17 @@
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Playground.UI.exe
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Playground.UI.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\VisualOdometry.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Emgu.CV.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Emgu.Util.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\zlib.net.dll
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\VisualOdometry.pdb
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Emgu.CV.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\bin\Debug\Emgu.Util.xml
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\Playground.UI.Form1.resources
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\Playground.UI.MapForm.resources
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\Playground.UI.Properties.Resources.resources
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\Playground.UI.exe
+D:\Sandbox\VS2010\drh-visual-odometry\src\Playground.UI\obj\x86\Debug\Playground.UI.pdb

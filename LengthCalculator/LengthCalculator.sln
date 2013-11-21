@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LengthCalculator", "LengthCalculator.vcxproj", "{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = Opencv_LengthCalculator
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:TamTam\u0020CVS\u0020SCC
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = LengthCalculator.vcxproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Debug|Win32.Build.0 = Debug|Win32
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Debug|x64.ActiveCfg = Debug|x64
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Debug|x64.Build.0 = Debug|x64
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Release|Win32.ActiveCfg = Release|Win32
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Release|Win32.Build.0 = Release|Win32
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Release|x64.ActiveCfg = Release|x64
+		{BF83BE37-8D36-4047-9B66-088AB7BB5B4C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

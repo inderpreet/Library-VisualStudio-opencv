@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "perspectiveTfn", "perspectiveTfn.vcxproj", "{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccProjectName0 = perspectiveTfn
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:TamTam\u0020CVS\u0020SCC
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = perspectiveTfn.vcxproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Debug|Win32.Build.0 = Debug|Win32
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Debug|x64.ActiveCfg = Debug|x64
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Debug|x64.Build.0 = Debug|x64
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Release|Win32.ActiveCfg = Release|Win32
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Release|Win32.Build.0 = Release|Win32
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Release|x64.ActiveCfg = Release|x64
+		{B7D540BA-D4F1-451F-99AF-A02C41A5CB1D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

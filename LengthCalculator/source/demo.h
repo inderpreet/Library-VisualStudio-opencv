@@ -1,0 +1,1 @@
+float Filter1(char c);
